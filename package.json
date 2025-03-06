@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Marrige Site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siddharth99-mall/Saithwar_Sangam.git"
+  },
+  "author": "Siddharth Mall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Siddharth99-mall/Saithwar_Sangam/issues"
+  },
+  "homepage": "https://github.com/Siddharth99-mall/Saithwar_Sangam#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
